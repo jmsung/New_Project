@@ -6,10 +6,7 @@ Created on Wed Mar 13 11:30:05 2019
 
 custom_funcs.py
 In projectname/projectname/custom_funcs.py, we can put in custom code that 
-gets used across more than notebook. One example would be downstream data 
-preprocessing that is only necessary for a subset of notebooks.
-
-# custom_funcs.py
+gets used across more than notebook. 
 
 """
 
